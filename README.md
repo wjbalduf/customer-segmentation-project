@@ -29,3 +29,18 @@ RFM distributions
 Elbow curve
 PCA cluster plot
 Segment comparison charts
+
+Dashboard:
+
+The Tableau dashboard summarizes customer segments identified through RFM analysis and K-Means clustering.
+
+The dashboard includes:
+- Customer segment distribution
+- Average customer spending by segment
+- RFM comparison heatmap
+- Customer value segmentation
+
+Key insights:
+- VIP customers represent the highest value customers with frequent purchases and high spending
+- At-risk valuable customers require retention strategies
+- Inactive customers represent opportunities for re-engagement campaigns
